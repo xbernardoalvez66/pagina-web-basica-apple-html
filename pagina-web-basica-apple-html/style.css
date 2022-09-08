@@ -24,7 +24,7 @@ nav{
 	right: 0;
 }
 
-nav li{
+nav ul li{
 font-family: 'apple regular';
 display: inline;
 font-size: 20px;
@@ -32,7 +32,7 @@ margin: 0 0 0 0px;
 color: rgb(213,213,213);
 }
 
-nav li:hover{
+nav ul li:hover{
 color: white;
 font-size: 30px;
 
